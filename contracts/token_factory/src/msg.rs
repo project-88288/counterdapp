@@ -3,6 +3,9 @@ use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, JsonSchema)]
+pub struct MigrateMsg {}
+
+#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, JsonSchema)]
 pub struct InstantiateMsg {
     /* Denomination of the stable asset
     https://docs.terra.money/docs/develop/module-specifications/spec-market.html#market */
@@ -55,5 +58,5 @@ pub struct MintedTokens {
     pub minted_tokens: Vec<String>,
 }
 
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, JsonSchema)]
-pub struct MigrateMsg {}
+
+

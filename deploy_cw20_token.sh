@@ -5,4 +5,11 @@
 #try
 #terrain deploy cw20_token_factory --signer test
 
-terrain deploy cw20_token_factory --signer test --config ./cw20_token_config.terrain.json
+terrain deploy cw20_token_factory --config-path ./cw20_token_config.terrain.json \
+--signer pisco \
+--network testnet
+
+
+#terrain deploy cw20_token_factory --config-path ./cw20_token_config.terrain.json \
+#--signer test \
+#--network localterra

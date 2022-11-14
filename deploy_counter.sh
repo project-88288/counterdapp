@@ -1,3 +1,3 @@
 
 
-terrain deploy counterdapp --config ./counter_config.terrain.json
+terrain deploy counterdapp  --config-path ./counter_config.terrain.json 

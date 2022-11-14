@@ -4,7 +4,7 @@
       "instantiation": {
         "instantiateMsg": {
           "stable_denom": "uluna",
-          "token_contract_code_id": 13
+          "token_contract_code_id": 5614
         }
       }
     }

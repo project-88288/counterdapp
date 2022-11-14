@@ -21,9 +21,21 @@
   },
   "testnet": {
     "counterdapp": {
-      "codeId": "5604",
+      "codeId": "5613",
       "contractAddresses": {
-        "default": "terra1u5xv87kwmc6y3c02dm8fvgymvyd2sdtzy8v9lyz0t5hz3attnjqqrc2af6"
+        "default": "terra148t5xzant57vakmcxex44ffd4z2zvfrylxk824pk342c5tk633mq32lcjw"
+      }
+    },
+    "cw20_token_factory": {
+      "codeId": "5614",
+      "contractAddresses": {
+        "default": "terra1q34s9svyurhyqges6jewlz4j44mva3uwgg9d6ygjdygnxtnzaxzq4d08q9"
+      }
+    },
+    "token_factory": {
+      "codeId": "5616",
+      "contractAddresses": {
+        "default": "terra10d7yac7n2frjac88yuvqwc4pjpj0tusdmdrxwuegthjx6pst5y8qptcqsa"
       }
     }
   }

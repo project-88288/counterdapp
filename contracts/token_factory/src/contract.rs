@@ -1,4 +1,5 @@
 use crate::error::ContractError;
+
 use crate::msg::{DepositType, ExecuteMsg, InstantiateMsg, MigrateMsg, MintedTokens, QueryMsg};
 use std::vec;
 use crate::state::{Config, CONFIG, MINTED_TOKENS};

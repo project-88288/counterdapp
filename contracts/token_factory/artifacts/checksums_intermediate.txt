@@ -1,1 +1,1 @@
-08c90bd0ffe4a9432768f70d13bc1c7ecc17d50d353ee55b70b490307027a507  ./target/wasm32-unknown-unknown/release/token_factory.wasm
+5b42a7bb0894f2a563a706e9d116d642978dc372fde95f34d20c047d4fb4cea9  ./target/wasm32-unknown-unknown/release/token_factory.wasm

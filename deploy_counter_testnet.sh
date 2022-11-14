@@ -1,2 +1,2 @@
 
-terrain deploy counterdapp --signer pisco --network testnet --config ./counter_config.terrain.json
+terrain deploy counterdapp --signer pisco --network testnet --config-path ./counter_config.terrain.json 

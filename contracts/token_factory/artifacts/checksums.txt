@@ -1,1 +1,1 @@
-631d608f4b5aefe7dad3d775cff661bc3e3a4c094f883a8432090509d67a8a13  token_factory.wasm
+34aada59df97bc877ca62c7f10bc5c3982bcf0da8149a512d0dabe487c789332  token_factory.wasm

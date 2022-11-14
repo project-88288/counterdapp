@@ -1,2 +1,9 @@
 
-terrain deploy cw20_token_factory --signer test --config ./token_config.terrain.json
+terrain deploy token_factory --config-path ./token_config.terrain.json \
+--signer pisco \
+--network testnet
+
+
+#terrain deploy token_factory --config-path ./token_config.terrain.json \
+#--signer test \
+#--network localterra
