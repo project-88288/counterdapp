@@ -1,0 +1,18 @@
+{
+  "localterra": {
+    "counterdapp": {
+      "codeId": "12",
+      "contractAddresses": {
+        "default": "terra1lnfn4f9gpz8fmvquarmuph62wmss3qwh92j98z4y4q4x566stkmsrq8tu3"
+      }
+    }
+  },
+  "testnet": {
+    "counterdapp": {
+      "codeId": "5604",
+      "contractAddresses": {
+        "default": "terra1u5xv87kwmc6y3c02dm8fvgymvyd2sdtzy8v9lyz0t5hz3attnjqqrc2af6"
+      }
+    }
+  }
+}

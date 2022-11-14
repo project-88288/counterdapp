@@ -1,0 +1,1 @@
+99ba1bfcfc63b5b75984a6dc3b5288e0d89028b270d0542f74a23f534a864538  ./target/wasm32-unknown-unknown/release/counterdapp.wasm
