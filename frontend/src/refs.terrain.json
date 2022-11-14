@@ -5,6 +5,18 @@
       "contractAddresses": {
         "default": "terra1lnfn4f9gpz8fmvquarmuph62wmss3qwh92j98z4y4q4x566stkmsrq8tu3"
       }
+    },
+    "cw20_token_factory": {
+      "codeId": "13",
+      "contractAddresses": {
+        "default": "terra1n234trhxyj4ze95td2t5ngdpyqd8529urm54epum3aqg3205pcasg0g5pu"
+      }
+    },
+    "token_factory": {
+      "codeId": "14",
+      "contractAddresses": {
+        "default": "terra1l8t0ye7jnn2jv0xh74hp3n3dndncp4h73wkcuvwax5w0pcf68ndqjsnhn6"
+      }
     }
   },
   "testnet": {
