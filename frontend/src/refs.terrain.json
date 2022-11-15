@@ -1,9 +1,9 @@
 {
   "localterra": {
     "counterdapp": {
-      "codeId": "26",
+      "codeId": "27",
       "contractAddresses": {
-        "default": "terra1cryjuex5uxstsstr8j50qpm4g9828nlr0l5uunlwvj0e7umdv7yq9d5ryf"
+        "default": "terra1kl8fyh4245lqj3ht5cl099eswuhgds4k9zdfv6hrhf3xu8xplzyql3dkcy"
       }
     },
     "cw20_token_factory": {
