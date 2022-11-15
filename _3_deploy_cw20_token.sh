@@ -13,3 +13,6 @@ terrain deploy cw20_token_factory --config-path ./cw20_token_config.terrain.json
 #terrain deploy cw20_token_factory --config-path ./cw20_token_config.terrain.json \
 #--signer test \
 #--network localterra
+
+terrain sync-refs 
+#terrain sync-refs [--refs-path <value>] [--dest <value>]
